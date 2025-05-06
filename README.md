@@ -73,6 +73,3 @@ A lot can still be done :).
 - Create dimensional models for additional business processes
 - Include CI/CD
 - Add more visualizations
-
-### Special Mentions
-I'd like to thank the [DataTalks.Club](https://datatalks.club) for offering this Data Engineering course for completely free. All the things I learnt there, enabled me to come up with this project. If you want to upskill on Data Engineering technologies, please check out the [course](https://github.com/DataTalksClub/data-engineering-zoomcamp). :)
