@@ -48,25 +48,6 @@ If you already have a Google Cloud account and a working terraform setup, you ca
   - [Setup Terraform](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_1_basics_n_setup/1_terraform_gcp/windows.md#terraform)
 
 
-### Get Going!
-
-A video walkthrough of how I run my project - [YouTube Video](https://youtu.be/vzoYhI8KTlY)
-
-- Procure infra on GCP with Terraform - [Setup](setup/terraform.md)
-- (Extra) SSH into your VMs, Forward Ports - [Setup](setup/ssh.md)
-- Setup Kafka Compute Instance and start sending messages from Eventsim - [Setup](setup/kafka.md)
-- Setup Spark Cluster for stream processing - [Setup](setup/spark.md)
-- Setup Airflow on Compute Instance to trigger the hourly data pipeline - [Setup](setup/airflow.md)
-
-
-### Debug
-
-If you run into issues, see if you find something in this debug [guide](setup/debug.md).
-### How can I make this better?!
-A lot can still be done :).
-- Choose managed Infra
-  - Cloud Composer for Airflow
-  - Confluent Cloud for Kafka
 - Create your own VPC network
 - Build dimensions and facts incrementally instead of full refresh
 - Write data quality tests
