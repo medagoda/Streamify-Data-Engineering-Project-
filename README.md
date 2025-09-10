@@ -34,9 +34,8 @@ Eventsim uses song data from [Million Songs Dataset](http://millionsongdataset.c
 ### Final Result
 
 ![dashboard](images/dashboard.png)
-## Setup
 
-**WARNING: You will be charged for all the infra setup. You can avail 300$ in credit by creating a new account on GCP.**
+
 ### Pre-requisites
 
 If you already have a Google Cloud account and a working terraform setup, you can skip the pre-requisite steps.
